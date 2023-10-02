@@ -14,7 +14,7 @@ from telegram import InputFile
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO, filename='logs.txt', filemode='w')
 
 # Initialize the bot
-updater = Updater(token='6387277193:AAF-2PVrLpfchzcxjNeGrdyCyggi0KgYnXI', use_context=True)
+updater = Updater(token=' *** ', use_context=True) #add token here 
 dispatcher = updater.dispatcher
 
 # Dictionary to store user states
