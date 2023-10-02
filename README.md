@@ -23,18 +23,14 @@ Search for @Expense_tool_bot on telegram
 
 
 
-- **Personalized Database**: Usigng Excel, each user has their dedicated storage space where their expenses are securely stored, ensuring no mix-up of information.
+- **Personalized Database**: Using Excel, each user has their dedicated storage space where their expenses are securely stored, ensuring no mix-up of information.
 
 
 ## Command List
 
 - `/start`: Start the bot and initiate interaction.
-- `addexpense`: Record a new expense.
+- `/addexpense`: Record a new expense.
 - `/recap`: Get a recap of your monthly expenses.
 
-
-## Disclaimer
-
-Budget Bot is a tool to assist with personal finance management. It does not provide financial advice. Please consult a financial advisor for any significant financial decisions.
 
 
