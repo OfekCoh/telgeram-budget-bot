@@ -32,5 +32,8 @@ Search for @Expense_tool_bot on telegram
 - `/addexpense`: Record a new expense.
 - `/recap`: Get a recap of your monthly expenses.
 
+## Note
+python-telegram-bot Version: 12.8
+
 
 
